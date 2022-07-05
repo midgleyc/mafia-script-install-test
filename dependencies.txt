@@ -1,1 +1,3 @@
 https://github.com/midgleyc/mafia-script-install-test.git	  main
+https://github.com/midgleyc/mafia-script-install-test.git third-branch
+https://github.com/midgleyc/mafia-script-install-test.git absent-branch
