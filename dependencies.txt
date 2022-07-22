@@ -1,0 +1,5 @@
+# git test install
+https://github.com/midgleyc/mafia-script-install-test.git test-deps-git
+
+# svn test install
+https://github.com/midgleyc/mafia-script-install-test/branches/test-deps-svn/
